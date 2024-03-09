@@ -1,0 +1,28 @@
+.login{
+  width: 200px;
+  border: 15px solid rgb(213, 232, 213);
+  padding: 50px;
+  margin: 20px;
+  
+}
+.input{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: medium;
+}
+.error{
+  color: red;
+  font-size: 11px;
+}
+button{
+  top:10px;
+ color: white;
+  height: 40px;
+  width: 100px;
+  border: none;
+  border-radius: 10px; 
+  background-color: #0077ff;
+}
+button:hover{
+  background-color: rgb(126, 174, 55);
+  
+}
